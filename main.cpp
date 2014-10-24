@@ -10,4 +10,5 @@ int main()
     cin >> b;
     cout << "\n" << "Sum of numbers " << a+b << "\n";
     cout << "\n" << "Difference of numbers " << a-b << "\n";
+    cout << "\n" << "Product of numbers " << a*b << "\n";
 }
