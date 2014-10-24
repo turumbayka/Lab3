@@ -7,5 +7,5 @@ int main()
     int b;
     cout << "\n" << "Enter second number ";
     cin >> b;
-
+    cout << "\n" << "Sum of numbers " << a+b << "\n";
 }
