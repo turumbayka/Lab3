@@ -8,4 +8,5 @@ int main()
     cout << "\n" << "Enter second number ";
     cin >> b;
     cout << "\n" << "Sum of numbers " << a+b << "\n";
+    cout << "\n" << "Difference of numbers " << a-b << "\n";
 }
